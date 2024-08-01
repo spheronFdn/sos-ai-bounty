@@ -8,6 +8,8 @@ Our goal? To inspire developers like you to create cutting-edge applications usi
 
 By participating, you'll not only be shaping the future of DePIN Compute but also helping us refine our developer tools and enhance the overall experience. Ready to make your mark? Let's dive in! 🏊‍♂️
 
+**Note** We used AI to make it look good & you can use it as well.
+
 ## 💰 Bounty Allocation 
 
 🎁 Total Bounty Pool: **$50,000** 

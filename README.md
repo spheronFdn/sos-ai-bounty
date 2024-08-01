@@ -27,7 +27,20 @@ Stay tuned for even more high-end servers coming soon! 👀
 
 Flex your coding muscles using popular open-source frameworks like Langchain, Huggingface, FastApi, vLLM, Ray, and more!
 
-### 📰 News Feed Analyzer Agent
+1. 📰[News Feed Analyzer Agent](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-news-feed-analyzer-agent)
+2. 📚[ Novel Reader and Visualizer App](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-novel-reader-and-visualizer-app)
+3. 🌟[ AI Celebrity Chatbot](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-ai-celebrity-chatbot)
+4. ❤️[ AI Girlfriend/Boyfriend Marketplace](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#%EF%B8%8F-ai-girlfriendboyfriend-marketplace)
+5. 😂[ Meme/Art Generator Platform](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-memeart-generator-platform)
+6. 💹[ AI Crypto Bot](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-ai-crypto-bot)
+7. 🧠[ LLM API Aggregator](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-llm-api-aggregator)
+8. 🤖[ AI Agent Marketplace](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-ai-agent-marketplace)
+9. 🗾[ AI Manga Translator](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-ai-manga-translator)
+10. ⚡[ GPU Function as a Service](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-gpu-function-as-a-service)
+11. 🧪[ Model Fine-Tuning Labs](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-model-fine-tuning-labs)
+12. 🏋️[ Model Training Labs](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#%EF%B8%8F-model-training-labs)
+
+### 📰 <ins>News Feed Analyzer Agent</ins>
 
 **Description**: Create an AI news guru that summarizes the latest buzz based on user interests.
 
@@ -41,7 +54,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Submit your masterpiece**: `news-feed-analyzer` directory
 
-### 📚 Novel Reader and Visualizer App
+### 📚 <ins>Novel Reader and Visualizer App</ins>
 
 **Description**: Bring stories to life with an app that reads novels aloud and conjures up magical visuals!
 
@@ -55,7 +68,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Submit your creation**: `novel-reader-visualizer` directory
 
-### 🌟 AI Celebrity Chatbot
+### 🌟 <ins>AI Celebrity Chatbot</ins>
 
 **Description**: Create a chatbot that channels your favorite celeb's vibes!
 
@@ -69,7 +82,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Submit your star**: `ai-celebrity-chatbot` directory
 
-### ❤️ AI Girlfriend/Boyfriend Marketplace
+### ❤️ <ins>AI Girlfriend/Boyfriend Marketplace</ins>
 
 **Description**: Build a love nest for AI companions where users can chat and mingle!
 
@@ -83,7 +96,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Submit your love story**: `ai-gf-bf-marketplace` directory
 
-### 😂 Meme/Art Generator Platform
+### 😂 <ins>Meme/Art Generator Platform</ins>
 
 **Description**: Create a meme/art factory with a built-in community showcase!
 
@@ -97,7 +110,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Submit your masterpiece**: `meme-art-generator` directory
 
-### 💹 AI Crypto Bot
+### 💹 <ins>AI Crypto Bot</ins>
 
 **Description**: Build a crypto whiz bot that analyzes tokens and dishes out buy/sell advice!
 
@@ -111,7 +124,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Submit your money-maker**: `ai-crypto-bot` directory
 
-### 🧠 LLM API Aggregator
+### 🧠 <ins>LLM API Aggregator</ins>
 
 **Description**: Create the Swiss Army knife of LLM APIs!
 
@@ -125,7 +138,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Submit your brainchild**: `llm-api-aggregator` directory
 
-### 🤖 AI Agent Marketplace
+### 🤖 <ins>AI Agent Marketplace</ins>
 
 **Description**: Build an AI agent bazaar where devs can showcase their creations and users can take them for a spin!
 
@@ -139,7 +152,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Submit your marketplace**: `ai-agent-marketplace` directory
 
-### 🗾 AI Manga Translator
+### 🗾 <ins>AI Manga Translator</ins>
 
 **Description**: Create a magical app that translates Japanese/Korean manga straight from the images!
 
@@ -153,7 +166,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Submit your translation wonder**: `ai-manga-translator` directory
 
-### ⚡ GPU Function as a Service
+### ⚡ <ins>GPU Function as a Service</ins>
 
 **Description**: Build an app that runs Python functions on a schedule you can tweak!
 
@@ -167,7 +180,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Submit your time-bender**: `gpu-function-service` directory
 
-### 🧪 Model Fine-Tuning Labs
+### 🧪 <ins>Model Fine-Tuning Labs</ins>
 
 **Description**: Create a playground for model fine-tuning enthusiasts!
 
@@ -181,7 +194,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Submit your lab**: `model-fine-tuning-labs` directory
 
-### 🏋️ Model Training Labs
+### 🏋️ <ins>Model Training Labs</ins>
 
 **Description**: Build a gymnasium for model training!
 

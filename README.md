@@ -2,23 +2,25 @@
 
 ## 🔍 Overview
 
-Welcome to the Spheron Bounty Program! 🎉 We're on a mission to revolutionize decentralized GPU accessibility, and we want YOU to be a part of it! 
+Welcome to the Spheron Bounty Program! 🎉 We're on a mission to revolutionize decentralized GPU accessibility, and we want YOU to be a part of it!
 
-Our goal? To inspire developers like you to create cutting-edge applications using Spheron's Decentralized GPU Network & Partner layers. Whether it's AI Bots, Models, Agent Store, or beyond - the sky's the limit! 
+Our goal? To inspire developers like you to create cutting-edge applications using Spheron's Decentralized GPU Network & Partner layers. Whether it's AI Bots, Models, Agent Store, or beyond - the sky's the limit!
 
 By participating, you'll not only be shaping the future of DePIN Compute but also helping us refine our developer tools and enhance the overall experience. Ready to make your mark? Let's dive in! 🏊‍♂️
 
 **Note** We used AI to make it look good & you can use it as well.
 
-## 💰 Bounty Allocation 
+## 💰 Bounty Allocation
 
-🎁 Total Bounty Pool: **$50,000** 
+🎁 Total Bounty Pool: **$50,000**
 
 But wait, there's more! 🔥
+
 - Bounty prizes will increase as we bring more partners on board.
 - All developers get 72 hours of unrestricted GPU access. How cool is that?
 
 🖥️ Available GPUs:
+
 - RTX3090
 - RTX4090
 - A6000
@@ -49,6 +51,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 **Reward**: 💸 $3,000
 
 **Key Requirements**:
+
 - 🤖 Develop a news-savvy AI agent
 - 📊 Serve up detailed summaries tailored to user interests
 
@@ -63,6 +66,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 **Reward**: 💸 $3,000
 
 **Key Requirements**:
+
 - 🗣️ Harness open-source LLM, text-to-voice, and text-to-art models
 - 🎨 Craft a user interface that even your grandma would love
 
@@ -77,6 +81,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 **Reward**: 💸 $5,000
 
 **Key Requirements**:
+
 - 🎭 Develop a chatbot that nails a chosen celebrity's essence
 - 💬 Ensure engaging, on-point interactions
 
@@ -91,6 +96,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 **Reward**: 💸 $5,000
 
 **Key Requirements**:
+
 - 💘 Develop a swoon-worthy marketplace platform
 - 🤖 Enable interactions with finetuned AI models
 
@@ -105,6 +111,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 **Reward**: 💸 $5,000
 
 **Key Requirements**:
+
 - 🎭 Develop a meme/art generator that'd make even Picasso jealous
 - 🖼️ Build a community gallery to show off the creations
 
@@ -119,6 +126,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 **Reward**: 💸 $3,000
 
 **Key Requirements**:
+
 - 📊 Analyze crypto tokens like a pro
 - 💡 Provide actionable buy/sell recommendations
 
@@ -133,6 +141,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 **Reward**: 💸 $4,000
 
 **Key Requirements**:
+
 - 🔗 Develop an API that brings together various LLMs
 - 🤝 Play nice with OpenAI API standards
 
@@ -147,6 +156,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 **Reward**: 💸 $5,000
 
 **Key Requirements**:
+
 - 🏪 Develop a bustling marketplace platform
 - 💳 Implement robust payment and usage tracking systems
 
@@ -161,6 +171,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 **Reward**: 💸 $3,000
 
 **Key Requirements**:
+
 - 📸 Leverage open-source image-to-text and LLM models
 - 🎯 Nail the translation and image processing accuracy
 
@@ -175,6 +186,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 **Reward**: 💸 $5,000
 
 **Key Requirements**:
+
 - ⏰ Develop a service to schedule and execute Python functions
 - 🔧 Allow users to customize schedules to their heart's content
 
@@ -189,6 +201,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 **Reward**: 💸 $5,000
 
 **Key Requirements**:
+
 - 🛠️ Provide a toolkit for fine-tuning various models
 - 😊 Ensure even your non-tech-savvy friend could use the interface
 
@@ -203,6 +216,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 **Reward**: 💸 $4,000
 
 **Key Requirements**:
+
 - 🏋️‍♀️ Provide tools for training various models
 - 🖱️ Create an interface so user-friendly, it practically uses itself
 
@@ -212,16 +226,33 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 ## 📝 General Submission Guidelines
 
-For each bounty, please include:
-- 📚 Detailed documentation (setup & usage)
-- 💻 Well-commented code (make it shine!)
-- 🎬 Example use cases or a demo (if applicable)
-- 🔀 Submit via pull request (PR) to the respective directory
-- 📄 Include a README in your PR (project details, setup instructions, dependencies)
+For each bounty, please follow these steps:
+
+1. 🎬 Create an issue to submit your bounty:
+
+   - Title: "[Bounty Name] Submission by [Your Name]"
+   - Content:
+     - Your name and email
+     - Reward address (for receiving bounty payments)
+     - Detailed project plan
+     - Repository details (provide link once available)
+     - Demo of the project (provide link once available)
+     - Detailed setup instructions
+     - Specific usage of Spheron infrastructure in your project
+   - Add the appropriate bounty label from the label section
+
+2. 🚀 In your project repository:
+   - 📚 Include comprehensive documentation (setup & usage)
+   - 💻 Ensure your code is well-commented and polished
+   - 🎬 Provide example use cases or a demo
+   - 📄 Include a README with project details, setup instructions, and dependencies
+
+We'll review your submission based on the information provided in your issue and the linked project repository.
 
 ## 🏅 Evaluation Criteria
 
 We'll be looking at:
+
 - 🏆 Code quality and documentation (make it sparkle!)
 - ✅ Functionality and adherence to bounty requirements
 - 🎨 User experience and interface design (where applicable)

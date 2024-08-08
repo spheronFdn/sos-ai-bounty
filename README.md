@@ -230,13 +230,13 @@ For each bounty, please follow these steps:
 
 1. 🎬 Create an issue to submit your bounty:
 
-   - Title: "[Bounty Name] Submission by [Your Name]"
+   - Title: [Name of your project]
    - Content:
      - Your name and email
      - Reward address (for receiving bounty payments)
      - Detailed project plan
-     - Repository details (provide link once available)
-     - Demo of the project (provide link once available)
+     - Repository details (provide link)
+     - Demo of the project (provide app link and a video)
      - Detailed setup instructions
      - Specific usage of Spheron infrastructure in your project
    - Add the appropriate bounty label from the label section

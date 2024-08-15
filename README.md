@@ -43,6 +43,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 10. ⚡[ GPU Function as a Service](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-gpu-function-as-a-service)
 11. 🧪[ Model Fine-Tuning Labs](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-model-fine-tuning-labs)
 12. 🏋️[ Model Training Labs](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#%EF%B8%8F-model-training-labs)
+13. 🏀[Telegram Mini App Game](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-telegram-mini-app-game)
 
 ### 📰 <ins>News Feed Analyzer Agent</ins>
 
@@ -223,6 +224,21 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 **Tech Stack**: Spheron GPU & CPU, Decentralized storage
 
 **Submit your gym**: `model-training-labs` directory
+
+### 🏀 <ins>Telegram Mini App Game</ins>
+
+**Description**: Build an addictive Telegram Mini App Game using GPUs!
+
+**Reward**: 💸 $
+
+**Key Requirements**:
+
+- 🎮 Create an engaging Web3 game as a Telegram Mini App
+- 🕹️ Ensure seamless GPU-powered performance
+
+**Tech Stack**: Spheron GPU & CPU, Decentralized storage, Telegram Mini App
+
+**Submit your gym**: `telegram-mini-app-game` directory
 
 ## 📝 General Submission Guidelines
 

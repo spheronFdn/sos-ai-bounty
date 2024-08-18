@@ -57,7 +57,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Tech Stack**: Spheron GPU & CPU, Decentralized storage
 
-**Submit your masterpiece**: `news-feed-analyzer` directory
+**Submit your masterpiece**: Add `news-feed-analyzer` label on your issue
 
 ### 📚 <ins>Novel Reader and Visualizer App</ins>
 
@@ -72,7 +72,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Tech Stack**: Spheron GPU & CPU, Decentralized storage
 
-**Submit your creation**: `novel-reader-visualizer` directory
+**Submit your creation**: Add `novel-reader-visualizer` label on your issue
 
 ### 🌟 <ins>AI Celebrity Chatbot</ins>
 
@@ -87,7 +87,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Tech Stack**: Spheron GPU & CPU, Decentralized storage
 
-**Submit your star**: `ai-celebrity-chatbot` directory
+**Submit your star**: Add `ai-celebrity-chatbot` label on your issue
 
 ### ❤️ <ins>AI Girlfriend/Boyfriend Marketplace</ins>
 
@@ -102,7 +102,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Tech Stack**: Spheron GPU & CPU, Decentralized storage
 
-**Submit your love story**: `ai-gf-bf-marketplace` directory
+**Submit your love story**: Add `ai-gf-bf-marketplace` label on your issue
 
 ### 😂 <ins>Meme/Art Generator Platform</ins>
 
@@ -117,7 +117,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Tech Stack**: Spheron GPU & CPU, Decentralized storage
 
-**Submit your masterpiece**: `meme-art-generator` directory
+**Submit your masterpiece**: Add `meme-art-generator` label on your issue
 
 ### 💹 <ins>AI Crypto Bot</ins>
 
@@ -132,7 +132,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Tech Stack**: Spheron GPU & CPU, Decentralized storage
 
-**Submit your money-maker**: `ai-crypto-bot` directory
+**Submit your money-maker**: Add `ai-crypto-bot` label on your issue
 
 ### 🧠 <ins>LLM API Aggregator</ins>
 
@@ -147,7 +147,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Tech Stack**: Spheron GPU & CPU, Decentralized storage
 
-**Submit your brainchild**: `llm-api-aggregator` directory
+**Submit your brainchild**: Add `llm-api-aggregator` label on your issue
 
 ### 🤖 <ins>AI Agent Marketplace</ins>
 
@@ -162,7 +162,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Tech Stack**: Spheron GPU & CPU, Decentralized storage
 
-**Submit your marketplace**: `ai-agent-marketplace` directory
+**Submit your marketplace**: Add `ai-agent-marketplace` label on your issue
 
 ### 🗾 <ins>AI Manga Translator</ins>
 
@@ -177,7 +177,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Tech Stack**: Spheron GPU & CPU, Decentralized storage
 
-**Submit your translation wonder**: `ai-manga-translator` directory
+**Submit your translation wonder**: Add `ai-manga-translator` label on your issue
 
 ### ⚡ <ins>GPU Function as a Service</ins>
 
@@ -192,7 +192,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Tech Stack**: Spheron GPU & CPU, Decentralized storage
 
-**Submit your time-bender**: `gpu-function-service` directory
+**Submit your time-bender**: Add `gpu-function-service` label on your issue
 
 ### 🧪 <ins>Model Fine-Tuning Labs</ins>
 
@@ -207,7 +207,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Tech Stack**: Spheron GPU & CPU, Decentralized storage
 
-**Submit your lab**: `model-fine-tuning-labs` directory
+**Submit your lab**: Add `model-fine-tuning-labs` label on your issue
 
 ### 🏋️ <ins>Model Training Labs</ins>
 
@@ -222,7 +222,7 @@ Flex your coding muscles using popular open-source frameworks like Langchain, Hu
 
 **Tech Stack**: Spheron GPU & CPU, Decentralized storage
 
-**Submit your gym**: `model-training-labs` directory
+**Submit your gym**: Add `model-training-labs` label on your issue
 
 ## 📝 General Submission Guidelines
 

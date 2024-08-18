@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-We're thrilled to announce a bounty of up to **$10,000** for creating an innovative News Feed Analyzer Agent! This intelligent agent will provide comprehensive summaries of the latest news based on user interests, leveraging open-source LLMs, ScrapeGraph AI, and tools like LangChain.
+We're thrilled to announce a bounty of up to **$3,000** for creating an innovative News Feed Analyzer Agent! This intelligent agent will provide comprehensive summaries of the latest news based on user interests, leveraging open-source LLMs, ScrapeGraph AI, and tools like LangChain.
 
 ## 🎯 Objective
 
@@ -16,43 +16,51 @@ Develop a News Feed Analyzer Agent that can:
 ## 📋 Requirements
 
 ### 1. Aggregation
+
 - 📊 Fetch news from multiple sources (RSS feeds, APIs, ScrapeGraph AI)
 - ⚙️ Allow users to configure preferred news outlets
 
 ### 2. Interest-Based Analysis
+
 - 👤 Implement user profile management for interests
 - 🧠 Use OSS LLMs to match articles with user interests
 
 ### 3. Summarization
+
 - 📄 Generate concise article summaries using LLMs
 - 🌐 Summarize overall news landscape
 - 💡 Ensure coherent and insightful summaries
 
 ### 4. Email Subscription
+
 - ✉️ Enable email address subscriptions
 - ⏱️ Allow customizable email frequency (e.g., daily, weekly)
 - 🚀 Send automated emails with analyzed news feeds
 
 ### 5. User Interface
+
 - 💻 Design intuitive UI for preference configuration and summary viewing
 - 🔎 Provide options to access detailed article views
 
 ### 6. Technology Stack
+
 - 🐍 Backend: Python or FastAPI
 - 🖥️ Frontend: React or Next.js web/mobile app
 - 🛠️ Utilize open-source LLMs, ScrapeGraph AI, and LangChain
 
 ### 7. Documentation
+
 - 📚 Provide comprehensive setup, configuration, and usage instructions
 - 📝 Include guidelines for extending with additional sources and languages
 
 ### 8. Testing
+
 - 🧪 Conduct robust testing for various edge cases
 - ✅ Implement unit tests, integration tests, and end-to-end tests
 
 ## 💰 Bounty Details
 
-Participants can earn up to **$10,000** based on the features implemented in the app.
+Participants can earn up to **$3,000** based on the features implemented in the app.
 
 ## 📤 Submission Guidelines
 
@@ -86,6 +94,6 @@ For questions or clarifications:
 
 Successful participants may be eligible for additional grants to further develop and enhance the News Feed Analyzer Agent. Details will be provided to successful candidates.
 
-We're excited to see your innovative solutions leveraging LLMs, ScrapeGraph AI, and LangChain to create a powerful News Feed Analyzer Agent! 
+We're excited to see your innovative solutions leveraging LLMs, ScrapeGraph AI, and LangChain to create a powerful News Feed Analyzer Agent!
 
 Good luck! 🍀

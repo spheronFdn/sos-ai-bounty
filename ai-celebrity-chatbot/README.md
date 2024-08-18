@@ -2,7 +2,7 @@
 
 ## 💡 Overview
 
-We're thrilled to announce a bounty of up to **$10,000** for creating an innovative AI Celebrity Chatbot! This chatbot will mimic the speech patterns of any celebrity, allowing users to engage in lifelike conversations. The project aims to leverage open-source large language models (LLMs) to simulate the unique personalities of various celebrities.
+We're thrilled to announce a bounty of up to **$5,000** for creating an innovative AI Celebrity Chatbot! This chatbot will mimic the speech patterns of any celebrity, allowing users to engage in lifelike conversations. The project aims to leverage open-source large language models (LLMs) to simulate the unique personalities of various celebrities.
 
 ## 🎯 Objective
 
@@ -52,7 +52,7 @@ Develop an AI Celebrity Chatbot that can:
 
 ## 💰 Bounty Details
 
-Participants can earn up to **$10,000** based on the features implemented in the app.
+Participants can earn up to **$5,000** based on the features implemented in the app.
 
 ## 📤 Submission Guidelines
 

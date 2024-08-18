@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-We're thrilled to announce a bounty of up to **$10,000** for creating an innovative AI Crypto Bot! This intelligent trading assistant will leverage AI to analyze market data and help users make informed trading decisions on crypto tokens.
+We're thrilled to announce a bounty of up to **$3,000** for creating an innovative AI Crypto Bot! This intelligent trading assistant will leverage AI to analyze market data and help users make informed trading decisions on crypto tokens.
 
 ## 🎯 Objective
 
@@ -52,7 +52,7 @@ Develop an AI Crypto Bot that can:
 
 ## 💰 Bounty Details
 
-Participants can earn up to **$10,000** based on the features implemented in the app.
+Participants can earn up to **$3,000** based on the features implemented in the app.
 
 ## 📤 Submission Guidelines
 

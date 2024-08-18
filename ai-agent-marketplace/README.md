@@ -15,32 +15,39 @@ Develop an AI Agent Marketplace that can:
 ## 📋 Requirements
 
 ### 1. Developer Submissions
+
 - 📝 Allow developers to submit AI agents with descriptions, functionality, and pricing
 - 📊 Provide a dashboard for submission management, usage tracking, and payment receipt
 
 ### 2. User Access and Payment
+
 - 🔎 Implement browsing and searching features based on categories, ratings, etc.
 - 💰 Enable secure fee-based access to AI agents
 - 🔒 Ensure secure transactions and data protection
 
 ### 3. Payment System Integration
+
 - 💳 Integrate secure payment gateways for user-developer transactions
 - 📈 Provide transparent fee structures and transaction histories
 
 ### 4. User Interface
+
 - 🖥️ Design an intuitive UI for browsing, purchasing, and using AI agents
 - 📱 Create a developer dashboard for agent management and performance tracking
 
 ### 5. Technology Stack
+
 - 🐍 Backend: Python
 - 🌐 Frontend: Web application or mobile app
 - 🛠️ Utilize open-source tools and libraries for development
 
 ### 6. Documentation
+
 - 📚 Provide comprehensive setup, configuration, and usage instructions
 - 📝 Include guidelines for developer submissions and user access
 
 ### 7. Testing
+
 - 🧪 Conduct robust testing for various edge cases
 - ✅ Implement unit tests, integration tests, and end-to-end tests
 
@@ -50,7 +57,7 @@ Participants can earn up to **$10,000** based on the features implemented in the
 
 ## 📤 Submission Guidelines
 
-1. Create an issue in the [bounty repository](https://github.com/spheronfdn/spheron-bounties) including:
+1. Create an issue in the [bounty repository](https://github.com/spheronfdn/sos-ai-bounty) including:
    - Your name
    - Email and contact details
    - Project details
@@ -74,12 +81,12 @@ For questions or clarifications:
 
 - **Discord**: Join our [Discord server](https://sphn.wiki/discord) and visit the #bounties channel
 - **Community Forum**: Post in the [Community Forum](https://community.spheron.network/)
-- **GitHub Issue**: Open an issue in the [bounty repository](https://github.com/spheronfdn/spheron-bounties/issues)
+- **GitHub Issue**: Open an issue in the [bounty repository](https://github.com/spheronfdn/sos-ai-bounty/issues)
 
 ## 🚀 Future Opportunities
 
 Successful participants may be eligible for additional grants to further develop and enhance the AI Agent Marketplace. Details will be provided to successful candidates.
 
-We're excited to see your innovative solutions in creating a powerful AI Agent Marketplace! 
+We're excited to see your innovative solutions in creating a powerful AI Agent Marketplace!
 
 Good luck! 🍀

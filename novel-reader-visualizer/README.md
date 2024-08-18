@@ -5,6 +5,7 @@
 We're thrilled to announce a bounty of up to **$10,000** for creating an innovative Novel Reader and Visualizer App! 🚀
 
 This app should:
+
 - 🗣️ Read novels aloud
 - 🖼️ Create expressive image visuals based on the novel's context
 
@@ -21,31 +22,38 @@ Develop a Novel Reader and Visualizer App that can:
 ## 📋 Requirements
 
 ### 1. Text-to-Voice Reading
+
 - 🔊 Read novels aloud using high-quality text-to-voice models
 - 🗣️ Provide clear and expressive voice outputs
 
 ### 2. Context-Based Visuals
+
 - 🖼️ Generate images based on specific scenes in the novel
 - 🎭 Use text-to-art models for appealing and contextually relevant images
 
 ### 3. Integration with LLMs
+
 - 🤖 Use LLMs to understand context and generate descriptive prompts
 - 🌈 Enhance user experience with intelligent, context-aware visuals
 
 ### 4. User Interface
+
 - 💻 Develop an intuitive UI for novel selection, reading control, and visual display
 - ⚙️ Provide options to adjust reading speed, voice type, and visual settings
 
 ### 5. Technology Stack
+
 - 🔧 Backend: Any preferred language (e.g., Python, Go, Node.js)
 - 🖥️ Frontend: Web application or mobile app
 - 🛠️ Utilize available open-source LLMs, text-to-voice, and text-to-art models
 
 ### 6. Documentation
+
 - 📚 Comprehensive setup, configuration, and usage instructions
 - 📝 Guidelines for extending the app to support additional models and languages
 
 ### 7. Testing
+
 - 🧪 Robust testing for various edge cases
 - ✅ Include unit tests, integration tests, and end-to-end tests
 
@@ -55,7 +63,7 @@ Participants can earn up to **$10,000** based on the implemented features.
 
 ## 📤 Submission Guidelines
 
-1. Create an issue in the [bounty repository](https://github.com/spheronfdn/spheron-bounties) including:
+1. Create an issue in the [bounty repository](https://github.com/spheronfdn/sos-ai-bounty) including:
    - Your name
    - Email and contact details
    - Project details
@@ -78,7 +86,7 @@ Participants can earn up to **$10,000** based on the implemented features.
 For questions or clarifications:
 
 - **Discord**: Join our [Discord server](https://sphn.wiki/discord) and visit the #bounties channel
-- **GitHub Issue**: Open an issue in the [bounty repository](https://github.com/spheronfdn/spheron-bounties/issues)
+- **GitHub Issue**: Open an issue in the [bounty repository](https://github.com/spheronfdn/sos-ai-bounty/issues)
 
 ## 🚀 Further Grant Opportunities
 

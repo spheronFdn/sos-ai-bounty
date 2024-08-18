@@ -15,31 +15,38 @@ Develop a Meme/Art Generator Platform that can:
 ## 📋 Requirements
 
 ### 1. Meme and Art Creation
+
 - 🛠️ Provide tools for meme and digital art creation
 - 🧰 Include features like text overlays, image uploads, drawing tools, and templates
 
 ### 2. Community Gallery
+
 - 🖼️ Implement a gallery for users to showcase their creations
 - 👀 Allow users to browse, like, comment, and share content
 
 ### 3. User Interaction
+
 - 💬 Enable interaction through likes, comments, and shares
 - 👤 Implement user profiles for creation management and interaction tracking
 
 ### 4. User Interface
+
 - 💻 Design an intuitive UI for creation, browsing, and interaction
 - 📱 Ensure responsiveness across web and mobile platforms
 
 ### 5. Technology Stack
+
 - 🐍 Backend: Python
 - 🖥️ Frontend: Web application or mobile app
 - 🛠️ Utilize open-source tools and libraries for meme/art creation
 
 ### 6. Documentation
+
 - 📚 Provide comprehensive setup, configuration, and usage instructions
 - 📝 Include guidelines for extending the platform with additional features
 
 ### 7. Testing
+
 - 🧪 Conduct robust testing for various edge cases
 - ✅ Implement unit tests, integration tests, and end-to-end tests
 
@@ -49,7 +56,7 @@ Participants can earn up to **$10,000** based on the features implemented in the
 
 ## 📤 Submission Guidelines
 
-1. Create an issue in the [bounty repository](https://github.com/spheronfdn/spheron-bounties) including:
+1. Create an issue in the [bounty repository](https://github.com/spheronfdn/sos-ai-bounty) including:
    - Your name
    - Email and contact details
    - Project details
@@ -73,12 +80,12 @@ For questions or clarifications:
 
 - **Discord**: Join our [Discord server](https://sphn.wiki/discord) and visit the #bounties channel
 - **Community Forum**: Post in the [Community Forum](https://community.spheron.network/)
-- **GitHub Issue**: Open an issue in the [bounty repository](https://github.com/spheronfdn/spheron-bounties/issues)
+- **GitHub Issue**: Open an issue in the [bounty repository](https://github.com/spheronfdn/sos-ai-bounty/issues)
 
 ## 🚀 Future Opportunities
 
 Successful participants may be eligible for additional grants to further develop and enhance the Meme/Art Generator Platform. Details will be provided to successful candidates.
 
-We're excited to see your innovative solutions that leverage creativity to build an engaging Meme/Art Generator Platform! 
+We're excited to see your innovative solutions that leverage creativity to build an engaging Meme/Art Generator Platform!
 
 Good luck! 🍀

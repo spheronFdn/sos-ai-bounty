@@ -94,7 +94,7 @@ For questions or clarifications:
 
 - **Discord**: Join our [Discord server](https://sphn.wiki/discord) and visit the #bounties channel
 - **Telegram**: Join Rabble's [Telegram group](https://t.me/+rFqLyk4_W-diZDZl) and ask your queries.
-- **GitHub Issue**: Open an issue in the [bounty repository](https://github.com/spheronfdn/spheron-bounties/issues)
+- **GitHub Issue**: Open an issue in the [bounty repository](https://github.com/spheronfdn/sos-ai-bounty/issues)
 
 ## 🚀 Further Grant Opportunities
 

@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-We're thrilled to announce a bounty of up to **$10,000** for creating an innovative Meme/Art Generator Platform! This platform will empower users to create memes and art, showcasing their creations in a vibrant community gallery. Our goal is to foster creativity and engagement through visual content sharing.
+We're thrilled to announce a bounty of up to **$5,000** for creating an innovative Meme/Art Generator Platform! This platform will empower users to create memes and art, showcasing their creations in a vibrant community gallery. Our goal is to foster creativity and engagement through visual content sharing.
 
 ## 🎯 Objective
 
@@ -52,7 +52,7 @@ Develop a Meme/Art Generator Platform that can:
 
 ## 💰 Bounty Details
 
-Participants can earn up to **$10,000** based on the features implemented in the app.
+Participants can earn up to **$5,000** based on the features implemented in the app.
 
 ## 📤 Submission Guidelines
 

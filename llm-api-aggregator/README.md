@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-We're thrilled to announce a bounty of up to **$10,000** for creating an innovative LLM API Aggregator! This platform will provide a unified API compatible with OpenAI's API for inferencing various large language models (LLMs) through a single endpoint.
+We're thrilled to announce a bounty of up to **$4,000** for creating an innovative LLM API Aggregator! This platform will provide a unified API compatible with OpenAI's API for inferencing various large language models (LLMs) through a single endpoint.
 
 ## 🎯 Objective
 
@@ -52,7 +52,7 @@ Develop an LLM API Aggregator that can:
 
 ## 💰 Bounty Details
 
-Participants can earn up to **$10,000** based on the features implemented in the app.
+Participants can earn up to **$4,000** based on the features implemented in the app.
 
 ## 📤 Submission Guidelines
 

@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-We're thrilled to announce a bounty of up to **$10,000** for creating an innovative Novel Reader and Visualizer App! 🚀
+We're thrilled to announce a bounty of up to **$3,000** for creating an innovative Novel Reader and Visualizer App! 🚀
 
 This app should:
 
@@ -59,7 +59,7 @@ Develop a Novel Reader and Visualizer App that can:
 
 ## 💰 Bounty Details
 
-Participants can earn up to **$10,000** based on the implemented features.
+Participants can earn up to **$3,000** based on the implemented features.
 
 ## 📤 Submission Guidelines
 

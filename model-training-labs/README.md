@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-We're thrilled to announce a bounty of up to **$10,000** for creating an innovative Model Training Labs app! This platform will provide a comprehensive suite of tools for model training, enabling developers to train their machine learning models with ease and efficiency.
+We're thrilled to announce a bounty of up to **$4,000** for creating an innovative Model Training Labs app! This platform will provide a comprehensive suite of tools for model training, enabling developers to train their machine learning models with ease and efficiency.
 
 ## 🎯 Objective
 
@@ -52,7 +52,7 @@ Develop a Model Training Labs app that can:
 
 ## 💰 Bounty Details
 
-Participants can earn up to **$10,000** based on the features implemented in the app.
+Participants can earn up to **$4,000** based on the features implemented in the app.
 
 ## 📤 Submission Guidelines
 

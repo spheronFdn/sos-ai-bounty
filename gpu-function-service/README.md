@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-We're thrilled to announce a bounty of up to **$10,000** for creating an innovative GPU Function as a Service app! This platform will allow users to input Python functions and execute them on a schedule, leveraging GPU capabilities for efficient processing.
+We're thrilled to announce a bounty of up to **$5,000** for creating an innovative GPU Function as a Service app! This platform will allow users to input Python functions and execute them on a schedule, leveraging GPU capabilities for efficient processing.
 
 ## 🎯 Objective
 
@@ -52,7 +52,7 @@ Develop a GPU Function as a Service app that can:
 
 ## 💰 Bounty Details
 
-Participants can earn up to **$10,000** based on the features implemented in the app.
+Participants can earn up to **$5,000** based on the features implemented in the app.
 
 ## 📤 Submission Guidelines
 

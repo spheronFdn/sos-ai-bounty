@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-We're thrilled to announce a bounty of up to **$10,000** for creating an innovative AI Manga Translator! This app will translate Japanese and Korean manga directly from images, leveraging open-source image-to-text models and large language models (LLMs) for accurate, context-aware translations.
+We're thrilled to announce a bounty of up to **$3,000** for creating an innovative AI Manga Translator! This app will translate Japanese and Korean manga directly from images, leveraging open-source image-to-text models and large language models (LLMs) for accurate, context-aware translations.
 
 ## 🎯 Objective
 
@@ -52,7 +52,7 @@ Develop an AI Manga Translator that can:
 
 ## 💰 Bounty Details
 
-Participants can earn up to **$10,000** based on the features implemented in the app.
+Participants can earn up to **$3,000** based on the features implemented in the app.
 
 ## 📤 Submission Guidelines
 

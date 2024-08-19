@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-We're thrilled to announce a bounty of up to **$10,000** for creating an innovative AI Agent Marketplace! This platform will empower developers to showcase their AI creations and allow users to access a variety of AI agents for different purposes.
+We're thrilled to announce a bounty of up to **$5,000** for creating an innovative AI Agent Marketplace! This platform will empower developers to showcase their AI creations and allow users to access a variety of AI agents for different purposes.
 
 ## 🎯 Objective
 
@@ -53,7 +53,7 @@ Develop an AI Agent Marketplace that can:
 
 ## 💰 Bounty Details
 
-Participants can earn up to **$10,000** based on the features implemented in the app.
+Participants can earn up to **$5,000** based on the features implemented in the app.
 
 ## 📤 Submission Guidelines
 

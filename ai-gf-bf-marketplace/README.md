@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-We're thrilled to announce a bounty of up to **$10,000** for creating an innovative AI Girlfriend/Boyfriend Marketplace! This platform will allow users to list and interact with fine-tuned AI models of virtual companions, leveraging large language models (LLMs) to create personalized and engaging experiences.
+We're thrilled to announce a bounty of up to **$5,000** for creating an innovative AI Girlfriend/Boyfriend Marketplace! This platform will allow users to list and interact with fine-tuned AI models of virtual companions, leveraging large language models (LLMs) to create personalized and engaging experiences.
 
 ## 🎯 Objective
 
@@ -58,7 +58,7 @@ Develop an AI Girlfriend/Boyfriend Marketplace that can:
 
 ## 💰 Bounty Details
 
-Participants can earn up to **$10,000** based on the features implemented in the app.
+Participants can earn up to **$5,000** based on the features implemented in the app.
 
 ## 📤 Submission Guidelines
 

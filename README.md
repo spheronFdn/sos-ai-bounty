@@ -18,6 +18,7 @@ But wait, there's more! 🔥
 
 - Bounty prizes will increase as we bring more partners on board.
 - All developers get 72 hours of unrestricted GPU access. How cool is that?
+- To access these GPUs, simply head to our [discord](https://sphn.wiki/discord) & ask for it on the build-chat group. 
 
 🖥️ Available GPUs:
 

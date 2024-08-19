@@ -70,7 +70,7 @@ Participants can earn up to **$ ** based on the implemented features.
 
 ## 📤 Submission Guidelines
 
-1. Create an issue in the [bounty repository](https://github.com/spheronfdn/spheron-bounties) including:
+1. Create an issue in the [bounty repository](https://github.com/spheronFdn/sos-ai-bounty) including:
    - Your name
    - Email and contact details
    - Project details

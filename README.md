@@ -32,8 +32,6 @@ By participating, you'll not only be shaping the future of DePIN Compute but als
 - [Evaluation Criteria](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-evaluation-criteria)
 - [Good Example](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-good-example)
 - [Bad Example](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-bad-example)
-- [Git Workflow](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-git-workflow)
-- [Consistent Environment](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-consistent-environments)
 - [Code Quality](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-code-quality)
 - [FAQ](https://github.com/spheronFdn/sos-ai-bounty?tab=readme-ov-file#-faq)
 

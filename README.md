@@ -23,6 +23,7 @@ Our goal? To inspire developers like you to create cutting-edge applications usi
 By participating, you'll not only be shaping the future of DePIN Compute but also helping us refine our developer tools and enhance the overall experience. Ready to make your mark? Let's dive in! 🏊‍♂️
 
 >> **Note:** We used AI to make it look good & you can use it as well.
+>> **Important Note:** If a team is simply using Spheron for deploying their code, we can support them with compute credits instead of stablecoins. However, if a team integrates the Spheron SDK and builds use cases around it, they will qualify for stablecoin support.
 
 ## 📃 Table of Content
 

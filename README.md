@@ -1,3 +1,5 @@
+> ## 🚨 Note: All bounties have been closed. If you’re excited to build on Spheron, fill out [this form](https://forms.gle/QMpj8BMELqpXBa9w5) — our team would love to connect with you!
+
 <p align="center">
 <!-- Bounty program logo -->
 <picture>
